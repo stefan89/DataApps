@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "countries": [
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "emergency_number": "",
+      "police_number": "112",
+      "fire_department_number": "112",
+      "ambulance_number": "112"
+    },
+    {
+      "code": "US",
+      "name": "United States of America",
+      "emergency_number": "911",
+      "police_number": "",
+      "fire_department_number": "",
+      "ambulance_number": ""
+    }
+  ]
+}
