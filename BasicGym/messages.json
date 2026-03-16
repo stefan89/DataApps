@@ -1,2 +1,9 @@
 [
+    {
+        "message_id": "MSG001",
+        "build_numbers": [51, 52],
+        "title": "Known Issue – Decimal Input",
+        "description": "The issue where decimal input was not possible has been identified. A fix is currently being developed and an app update will be released soon. Apologies for the inconvenience and thank you for your patience.",
+        "priority": "Medium"
+    }
 ]
