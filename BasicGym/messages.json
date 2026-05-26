@@ -5,5 +5,12 @@
         "title": "Known Issue – Decimal Input",
         "description": "The issue where decimal input was not possible has been identified. A fix is currently being developed and an app update will be released soon. Apologies for the inconvenience and thank you for your patience.",
         "priority": "Medium"
+    },
+    {
+        "message_id": "MSG002",
+        "build_numbers": [54, 55],
+        "title": "Experiencing issues after the app update?",
+        "description": "Did you lose data after updating the app? Please send an email to software@collette.contact",
+        "priority": "Medium"
     }
 ]
