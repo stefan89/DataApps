@@ -9,8 +9,8 @@
     {
         "message_id": "MSG002",
         "build_numbers": [54, 55],
-        "title": "Experiencing issues after the app update?",
-        "description": "Did you lose data after updating the app? Please send an email to software@collette.contact",
+        "title": "Lost data after updating?",
+        "description": "Did you lose data after updating the app? Please email software@collette.contact for assistance. Important: Do not delete the app, otherwise the data may be permanently lost.",
         "priority": "Medium"
     }
 ]
